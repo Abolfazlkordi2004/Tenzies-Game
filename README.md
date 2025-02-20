@@ -1,3 +1,3 @@
 # Tenzies-Game
 
-A Game created with react 
+Tenzies game is a small project react 
